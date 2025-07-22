@@ -11,4 +11,5 @@
   "notebook.formatOnCellExecution": true,
   // this is extra but will help
   "notebook.diff.ignoreMetadata": true,
+  "liveServer.settings.port": 5501,
 }
